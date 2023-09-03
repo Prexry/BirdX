@@ -4,7 +4,7 @@
 # How To Install (Chromium-Based Browsers)
 - Chrome, Edge, Opera, etc
 1. Install the latest version
-2. open `chrome://extensions`
+2. open `chrome://extensions` and enable "developer mode".
 ![Alt text](image.png)
 3. Now press `load upacked`
 ![Alt text](image-1.png)
